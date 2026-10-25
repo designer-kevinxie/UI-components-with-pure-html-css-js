@@ -1,5 +1,30 @@
+# UI Components with Pure HTML / CSS / JavaScript
 
+## 概要
 
+Figma（および Adobe XD）でデザインした UI コンポーネントを、フレームワークを使わず **HTML / CSS / JavaScript のみ** で実装した、自主制作のコンポーネント集です。各コンポーネントはフォルダごとに完結しており、`index.html` を開くとそのまま動作を確認できます。
+
+## コンポーネント一覧
+
+1. [Nav-bar 01](./1.nav-bar-01/) — ドロップダウンメニュー付きナビゲーションバー（Figma デザイン同梱）
+2. [Newsletter input card](./2.newsletter%20input%20card/) — メール登録カード（Figma デザイン同梱）
+3. [Nav-bar 02](./3.nav-bar-02/) — ナビゲーションバー第2弾（Adobe XD デザイン同梱）
+4. [Sign-in card](./4.sign-in-card-01/) — サインインカード（JavaScript 実装あり、Figma デザイン同梱）
+5. [Content card](./5.content-card-01/) — ホバーアニメーション付きコンテンツカード（JavaScript + CSS アニメーション）
+
+## 使用技術
+
+- HTML / CSS / JavaScript（Vanilla JS）
+- デザイン：Figma、Adobe XD
+
+## 作者について
+
+Web UI デザイナーとして約4年の実務経験があります。現在、日本で Web デザイン／コーディング職への転職準備中です。
+個人ブログ（WordPress / VPS 運用）：https://kevinx.cc
+
+---
+
+以下は制作当時の英語メモです。
 
 # UI-components-with-pure-html-css-js
 
